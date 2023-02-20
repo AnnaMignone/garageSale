@@ -193,7 +193,8 @@ a {
 }
 
 .footerText {
-  color: #ffffff;
+  color: #ffffff !important;
+  text-decoration: none !important;
   font-size: 1.2rem;
   font-weight: 100;
   text-align: left;
